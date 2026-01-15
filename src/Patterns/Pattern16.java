@@ -1,28 +1,34 @@
 package Patterns;
 
-public class Pattern6 {
+public class Pattern16 {
     private static void pattern(int n) {
-        for (int i = n; i > 0; i--) {
+        char start = 'A';
+        for (int i = 1; i <= n; i++) {
             for (int j = 1; j <=i; j++) {
-                System.out.print(j);
+                System.out.print(start);
             }
+            start = (char) (start + 1);
             System.out.println();
         }
     }
+
 
     public static void main(String[] args) {
         pattern(4);
     }
 }
 
+
+
 /*
-12345
+A
 
-1234
+BB
 
-123
+CCC
 
-12
+DDDD
 
-1
- */
+EEEEE
+*/
+

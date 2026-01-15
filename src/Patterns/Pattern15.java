@@ -16,3 +16,16 @@ public class Pattern15 {
         pattern(4);
     }
 }
+
+
+/*
+ABCDE
+
+ABCD
+
+ABC
+
+AB
+
+A
+ */

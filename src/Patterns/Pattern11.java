@@ -18,3 +18,16 @@ public class Pattern11 {
         pattern(5);
     }
 }
+
+
+/*
+1
+
+0 1
+
+1 0 1
+
+0 1 0 1
+
+1 0 1 0 1
+ */

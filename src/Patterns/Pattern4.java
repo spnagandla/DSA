@@ -15,3 +15,15 @@ public class Pattern4 {
         pattern(5);
     }
 }
+
+/*
+1
+
+22
+
+333
+
+4444
+
+55555
+ */
