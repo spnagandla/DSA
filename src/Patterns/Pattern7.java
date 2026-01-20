@@ -4,6 +4,7 @@ public class Pattern7 {
     public static void pattern(int n) {
         for (int i = 1; i <= n; i++) {
             //spaces
+            //O(N)
             for (int j = 1; j <= n - i; j++) {
                 System.out.print(" ");
             }
@@ -27,3 +28,6 @@ public class Pattern7 {
  *******
  *********
  */
+
+//Time Complexity: O(n2)
+//Space Complexity: O(1)

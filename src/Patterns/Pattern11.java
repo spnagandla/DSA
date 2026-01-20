@@ -31,3 +31,6 @@ public class Pattern11 {
 
 1 0 1 0 1
  */
+
+//Time Complexity: near about O(n2)
+//Space Complexity: O(1)

@@ -73,7 +73,13 @@ All Common Time Complexities:
                  Bubble Sort
                  Selection Sort
 
+
+Two Main Rules here are: 1) Consider the worst case scenario, 2) Avoid Constants.
     
+![img.png](img.png)
+
+
+
 Space Complexity:
             How much extra memory your program uses as input grows. 
 Rules:

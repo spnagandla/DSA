@@ -27,3 +27,6 @@ public class Pattern4 {
 
 55555
  */
+
+//Time Complexity: near O(n2)
+//Space Complexity: O(1)

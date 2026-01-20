@@ -43,3 +43,5 @@ public class Pattern10 {
 
  *
  */
+
+//Time Complexity: O(n2)

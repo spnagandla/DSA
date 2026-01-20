@@ -29,3 +29,6 @@ public class Pattern8 {
  ***
  *
  */
+
+//Time Complexity: O(n2)
+//Space Complexity: O(1)

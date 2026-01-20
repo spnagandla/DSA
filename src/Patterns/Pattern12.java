@@ -3,7 +3,7 @@ package Patterns;
 public class Pattern12 {
     public static void pattern(int n){
 
-        //outer loop
+        //outer loop O(N)
         for(int i=1;i<=n;i++){
 
             //numbers
@@ -36,3 +36,7 @@ public class Pattern12 {
 1234  4321
 1234554321
  */
+
+//Time Complexity: O(n2)
+//Space Complexity: O(1)
+

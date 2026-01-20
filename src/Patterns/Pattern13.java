@@ -28,3 +28,6 @@ public class Pattern13 {
 
 11 12 13 14 15
  */
+
+//Time Complexity: near about O(n2)
+//space complexity: O(1)

@@ -53,3 +53,5 @@ public class Pattern19 {
  ****  ****
  **********
  */
+
+//Time Complexity: O(n2)+O(n2)=O(2n2)

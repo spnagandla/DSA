@@ -35,3 +35,4 @@ public class Pattern21 {
  */
 
 //No specific tips just understand the code you solved.
+//Time Complexity: O(N2)

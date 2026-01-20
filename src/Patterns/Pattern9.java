@@ -20,3 +20,5 @@ public class Pattern9 {
  ***
  *
  */
+//Time Complexity: O(n2)  [O(n²) + O(n²) = O(2n²)]
+

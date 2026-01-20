@@ -34,3 +34,5 @@ public class Pattern17 {
  ABCDCBA
 ABCDEDCBA
  */
+
+//Time Complexity: near about O(N2)

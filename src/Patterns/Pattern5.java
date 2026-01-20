@@ -26,3 +26,6 @@ public class Pattern5 {
 
  *
  */
+
+//Time Complexity: near about O(n2)
+//Space Complexity: O(1)
