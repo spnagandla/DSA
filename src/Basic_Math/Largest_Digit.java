@@ -15,3 +15,24 @@ public class Largest_Digit {
         largestDigit(13971);
     }
 }
+
+/*
+Return the Largest Digit in a Number
+You are given an integer n. Return the largest digit present in the number.
+
+Example 1
+Input: n = 25
+Output: 5
+
+Explanation: The largest digit in 25 is 5.
+
+Time Complexity:
+O(log₁₀ n), where n is the input number
+Space Complexity:
+O(1), since only constant extra space is used
+
+Time Complexity:
+O(log₁₀ n), where n is the input number.
+Space Complexity:
+O(1), since only constant extra space is used.
+ */
