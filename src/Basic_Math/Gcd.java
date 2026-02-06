@@ -25,12 +25,21 @@ public class Gcd {
     }
 
 
-    //Optimized Euclidean algorithm
+    //Optimized Euclidean algorithm (substraction gcd(n1,n2) == gcd(n1-n2,n2) where (n1>=n2) but this takes too long and time so
+    public static int gcd3(int n1,int n2){
+        while(n1 !=0 && n2 !=0){
+            if(n1>n2) n1 = n1-n2;
+            else n2 = n2-n1;
+        }
+        if(n1 ==0) return n2;
+        else return n1;
+    }
 
 
 
     public static void main(String[] args) {
         gcd1(20, 40);
         System.out.println(gcd2(20,40));
+        System.out.println(gcd3(20,40));
     }
 }
