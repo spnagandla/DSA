@@ -102,4 +102,9 @@ e → variable holding each pair
 whole thing → "For each key-value pair in the map"
 
 freq = {1=1, 2=2, 3=3} => I1 e = (1,1) => I2 e = (2,2) => I3 e = (3,3)
+
+using hash map:
+Time: O(n) average
+
+Space: O(k) where k = number of unique elements
  */
